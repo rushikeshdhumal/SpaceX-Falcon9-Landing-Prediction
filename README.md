@@ -28,5 +28,5 @@ Part 7: Plotly Dashboard<br />
 In this part, an interactive dashboard app is created based on the SpaceX dataset, using Python Dash and Plotly packages.
 
 Part 8: SpaceX Machine Learning Prediction<br />
-In this part, data is analysed, split into training and testing sets and 4 supervised models- Support Vector Machine, Decision Tree, K-Nearest Neighbours and Logistic Regression, are trained on the dataset.<br />
+In this part, data is analysed, split into training and testing sets and 4 supervised models- Support Vector Machine, Decision Tree, K-Nearest Neighbours and Logistic Regression, are trained on the dataset.
 The accuracy of each of the models is calculated to find the best prediction model.
